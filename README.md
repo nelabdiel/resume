@@ -27,7 +27,7 @@
 - Served as a Subject Matter Expert for the ethical implementation of AI/ML for the Veterans Benefits Administration.
 
 ### Defense Digital Service, Department of Defense, The Pentagon, DC
-*Details of projects and performance are limited due to the sensitive nature of the work in regard to national security.*
+- *Details of projects and performance are limited due to the sensitive nature of the work in regard to national security.*
 
 ### White House Presidential Innovation Fellows, Washington, DC
 **AI Lead - Entrepreneur in Residence**  
