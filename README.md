@@ -65,8 +65,8 @@
 - *Ph.D., Mathematics*, University of Iowa
 - *M.Sc., Mathematics*, University of Iowa
 - *M.St., AI Ethics and Society*, University of Cambridge
-  - Exp. May 2025 \
--* M.Sc., Artificial Intelligence*, University of Texas
+  - Exp. May 2025
+- *M.Sc., Artificial Intelligence*, University of Texas
   - Exp. Dec. 2024
 - *M.A., Mathematics*, University of Northern Iowa
 - *B.Sc., Mathematics*, University of Puerto Rico
