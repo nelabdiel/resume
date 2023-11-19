@@ -3,7 +3,7 @@
 
 ![LinkedIn](https://www.linkedin.com/in/yourprofile) ![Spotify](https://open.spotify.com/artist/73T51R2Kids9OM2jf3TxPG)
 
-📍 Miami | NYC | DC \ 
+📍 Miami | NYC | DC \
 📧 nacolon (at) gmail (dot) com  \
 🌐 [Personal Website](http://www.nel.world)  
 📞 ask me   
