@@ -64,8 +64,9 @@
 - Ph.D., Mathematics, University of Iowa
 - M.Sc., Mathematics, University of Iowa
 - M.St., AI Ethics and Society, University of Cambridge
-  - Exp May 2025
-- M.Sc., Artificial Intelligence (Exp. Dec. 2024), University of Texas
+  - Exp. May 2025
+- M.Sc., Artificial Intelligence, University of Texas
+  - Exp. Dec. 2024
 - M.A., Mathematics, University of Northern Iowa
 - B.Sc., Mathematics, University of Puerto Rico
 
@@ -110,6 +111,6 @@
 
 ## Publications
 
-- "Exploiting The Margins: How Capitalism Fuels AI at the Expense of Minoritized Groups," Nelson Colón, *Some Journal* Volume k, Issue m, Month 2024.
+- "Exploiting The Margins: How Capitalism Fuels AI at the Expense of Minoritized Groups," Nelson Colón, *In Progress*.
 - "The Localized Skein Algebra is Frobenius," Nel Abdiel and Charles Frohman, *Algebraic and Geometric Topology* Volume 17, Issue 6, October 2017.
 - "Frobenius Algebras Derived From The Kauffman Bracket Skein Algebras," Nel Abdiel and Charles Frohman, *Journal of Knot Theory and its Ramification,* Volume 25, Issue 04, April 2016.
