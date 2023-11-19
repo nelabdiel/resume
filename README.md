@@ -16,7 +16,7 @@
 *June 2023--Present*
 
 - Serving as the highest-ranking AI Official at the FDA, providing leadership on responsible AI practices.
-- Leading the development of agency policies on Generative AI, AI Playbook, and AI Strategy.
+- Leading the development of agency policies on Generative AI, the AI Playbook, and AI Strategy.
 - Establishing the AI Governance and Advisory Board and growing a dynamic AI team.
 
 ### U.S. Digital Service - Executive Office of the President, The White House
