@@ -63,7 +63,8 @@
 
 - Ph.D., Mathematics, University of Iowa
 - M.Sc., Mathematics, University of Iowa
-- M.St., AI Ethics and Society (Exp May 2025), University of Cambridge
+- M.St., AI Ethics and Society, University of Cambridge
+  - Exp May 2025
 - M.Sc., Artificial Intelligence (Exp. Dec. 2024), University of Texas
 - M.A., Mathematics, University of Northern Iowa
 - B.Sc., Mathematics, University of Puerto Rico
@@ -75,9 +76,37 @@
 - Data Science Certificate, The Data Incubator
 - Songwriting Professional Certificate, Berklee College of Music
 
-## Talks, Panels & Awards
+## Talks & Panels
 
-- [List of talks, panels, and awards with dates and event details.]
+- **"Adopting Generative AI in Support of our Mission"**  
+  *FDA, November 2023*
+
+- **"Leveraging AI Responsibly"**  
+  *Ponce Health Science University, October 2023*
+
+- **"The AI Landscape at FDA" (Keynote) - 2023 Scientific Computing Days Conference**  
+  *September 2023*
+
+- **"Truths and Myths about AI" - Asociación de Periodistas de Puerto Rico**  
+  *August 2023*
+
+- **"Embracing Artificial Intelligence" (Radio Interview) - Ciencia Boricua**  
+  *July 2023*
+
+- **"Ethical Uses of AI in the Federal Government" - ATARC**  
+  *August 2022*
+
+- **"Can AI Help Increase Fairness and Equity?" - AI & Data Roundtable, ATARC**  
+  *June 2022*
+
+- **"Predictions from the Pros: The Future of AI" - Digital Transformation Submit, ACT-AIC**  
+  *March 2021*
+
+### Awards
+
+- **Special Act Award**  
+  *Technology Transformation Services, General Services Administration*
+
 
 ## Publications
 
