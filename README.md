@@ -9,6 +9,11 @@
 📞 ask me   
 🆔 [ORCID: 0009-0009-9038-7328](https://orcid.org/0009-0009-9038-7328)
 
+# Executive Summary
+
+Results-oriented Artificial Intelligence (AI) leader and Responsible AI advocate with a proven track record of driving innovation in both public and private sectors. As the highest-ranking AI Official at the U.S. Food & Drug Administration (FDA), I provide strategic guidance to the C-Suite on the responsible and effective use of AI, including Large Language Models (LLM), Natural Language Processing (NLP), and Machine Learning (ML). 
+
+
 ## Experience
 
 ### U.S. Food & Drug Administration - Office of the Commissioner, DC
