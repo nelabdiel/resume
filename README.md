@@ -26,9 +26,6 @@
 - Provided technical guidance on Generative AI and collaborated on Data Science projects.
 - Served as a Subject Matter Expert for the ethical implementation of AI/ML for the Veterans Benefits Administration.
 
-### Office of the CTO at the Department of Veterans Affairs
-*Details of responsibilities related to Generative AI, ethical AI practices, and collaboration.*
-
 ### Defense Digital Service, Department of Defense, The Pentagon, DC
 *Details of projects and performance are limited due to the sensitive nature of the work in regard to national security.*
 
