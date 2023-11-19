@@ -79,9 +79,6 @@
 
 ## Talks & Panels
 
-- **"Adopting Generative AI in Support of our Mission"**  
-  *FDA, November 2023*
-
 - **"Leveraging AI Responsibly"**  
   *Ponce Health Science University, October 2023*
 
@@ -99,9 +96,6 @@
 
 - **"Can AI Help Increase Fairness and Equity?" - AI & Data Roundtable, ATARC**  
   *June 2022*
-
-- **"Predictions from the Pros: The Future of AI" - Digital Transformation Submit, ACT-AIC**  
-  *March 2021*
 
 ### Awards
 
