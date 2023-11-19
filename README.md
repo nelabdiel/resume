@@ -47,7 +47,7 @@
 **Lead Data Scientist**  
 *June 2016--January 2018*
 
-- Led a cross-functional team to revamp Soteria's DNSense product using automated Machine Learning.
+- Led a cross-functional team to revamp Soteria's DNSense product using Machine Learning.
 - Spearheaded the ideation, development, and deployment of Soteria's proprietary NLP/NLU phishing detection solution.
 
 ## Academic Affiliations
